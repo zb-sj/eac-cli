@@ -14,6 +14,8 @@ export interface UserProfile {
   kostlText: string;     // "Device Engineering"
   wfDept: string;        // Department code
   wfDeptText: string;    // "Service Engineering"
+  gsber?: string;        // Business Area, e.g. "K300" (SAP requires cost-center-consistent value)
+  bupla?: string;        // Business Place, e.g. "K100"
 }
 
 export interface ReimbursementItem {
