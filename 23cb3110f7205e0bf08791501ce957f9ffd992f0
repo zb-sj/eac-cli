@@ -1,0 +1,18 @@
+src/lib/config.ts
+  h_5fc43fec215ff3 58-59
+src/lib/ops.ts
+  h_5fc43fec215ff3 489,532,932
+src/types/index.ts
+  h_5fc43fec215ff3 17-18
+---
+{
+  "schema_version": "zax-attestation/1.2.0",
+  "base_commit_sha": "23cb3110f7205e0bf08791501ce957f9ffd992f0",
+  "prompts": {},
+  "humans": {
+    "h_5fc43fec215ff3": {
+      "author": "sejun@zigbang.com"
+    }
+  },
+  "attribution_source": "human_fallback"
+}
